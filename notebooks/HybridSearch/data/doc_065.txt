@@ -1,0 +1,1 @@
+Hệ thống vừa ghi nhận sự cố liên quan đến ERR_CONNECTION_RESET_104. Đội ngũ kỹ thuật đang tiến hành kiểm tra nguyên nhân cốt lõi. Trong lúc này, các dịch vụ phụ thuộc vào JWT có thể bị gián đoạn. Vui lòng tham khảo tài liệu nội bộ để biết thêm chi tiết. Vui lòng ghi nhớ mã lỗi ERR_CONNECTION_RESET_104 để báo cáo lên cấp trên.

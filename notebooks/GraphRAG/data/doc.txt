@@ -1,0 +1,125 @@
+FPT INTERNAL POLICY (EXTENDED VERSION)
+
+---
+
+Document ID: FPT-HR-001
+Effective Date: 01/01/2024
+Scope: Applies to all full-time employees at FPT and its affiliated units.
+
+---
+
+1. WORKING HOURS
+
+* Standard working time: 8 hours/day, Monday to Friday.
+* Morning: 08:30 - 12:00
+* Lunch break: 12:00 - 13:30
+* Afternoon: 13:30 - 17:30
+
+Additional Rules:
+
+* Employees must be present at least 5 minutes before working hours.
+* Flexible working hours may be applied depending on department approval.
+* Remote work must be approved by direct manager.
+
+---
+
+2. ATTENDANCE REGULATION
+
+* Employees must check-in/check-out via myFPT system:
+
+  * Facial recognition
+  * Employee card
+* Attendance data is the official basis for payroll and discipline.
+
+Late/Early Leave:
+
+* Late after 08:30 or leaving before 17:30 without approval is considered a violation.
+
+Penalty:
+
+* < 15 minutes: Warning
+* 15 - < 30 minutes: 50,000 VND fine
+* ≥ 30 minutes: Deduct 0.5 leave day or salary
+
+Additional Rules:
+
+* More than 5 late times/month → KPI impact
+* Attendance fraud → strict disciplinary action
+
+---
+
+3. OVERTIME
+
+* OVERTIME must:
+
+  * Be required by work
+  * Be approved in advance
+
+OVERTIME Rates:
+
+* Weekdays: 150%
+* Weekends: 200%
+* Holidays: 300%
+
+Additional Rules:
+
+* Must comply with labor law limits
+* Unauthorized OVERTIME → not paid
+
+---
+
+Document ID: FPT-HR-002
+Effective Date: 01/01/2024
+
+---
+
+1. ANNUAL LEAVE
+
+* 12 days/year for 12-month contract
+* +1 day every 5 years of service
+
+Usage:
+
+* Must be registered and approved
+
+Carry-over:
+
+* Max 5 days to Q1 next year
+* Expired leave will be removed
+* Not convertible to cash
+
+---
+
+2. SICK LEAVE
+
+* Max 30 days/year (covered by social insurance)
+
+Requirements:
+
+* Medical certificate required within 3 days after return
+* More than 2 consecutive days → mandatory proof
+
+---
+
+3. MATERNITY / PATERNITY LEAVE
+
+Female Employees:
+
+* 6 months leave
+* 100% salary (social insurance)
+* +20% support (first 3 months)
+
+Male Employees:
+
+* 5 days (normal birth)
+* 7–14 days (C-section or multiple births)
+
+---
+
+4. SPECIAL LEAVE
+
+* Marriage: 3 days
+* Funeral: 3–5 days
+* Unpaid leave: Requires approval
+
+---

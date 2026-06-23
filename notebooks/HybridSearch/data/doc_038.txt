@@ -1,0 +1,1 @@
+Khách hàng báo cáo thiết bị Laptop ThinkPad-T14-Gen3-21AH không thể kết nối mạng. Qua kiểm tra ban đầu, có vẻ cấu hình AWS EC2 đang gặp vấn đề. Mã lỗi hiển thị trên màn hình là ERR_503_SERVICE_UNAVAILABLE do overload. Cần gửi nhân viên hỗ trợ đến tận nơi. Việc đào tạo nội bộ sẽ được tổ chức vào thứ Sáu tuần này.

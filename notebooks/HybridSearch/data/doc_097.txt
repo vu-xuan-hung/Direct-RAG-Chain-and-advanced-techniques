@@ -1,0 +1,1 @@
+Khách hàng báo cáo thiết bị Switch Cisco-C9200L-48P-4G không thể kết nối mạng. Qua kiểm tra ban đầu, có vẻ cấu hình RESTful API đang gặp vấn đề. Mã lỗi hiển thị trên màn hình là CRITICAL_BUG_X99. Cần gửi nhân viên hỗ trợ đến tận nơi. Việc đào tạo nội bộ sẽ được tổ chức vào thứ Sáu tuần này. Vui lòng ghi nhớ mã lỗi CRITICAL_BUG_X99 để báo cáo lên cấp trên.

@@ -1,0 +1,1 @@
+Quy trình khắc phục sự cố mạng: Khi người dùng phàn nàn về hiệu suất của Server Dell-PowerEdge-R750, hãy yêu cầu họ cung cấp log hệ thống. Thường thì vấn đề nằm ở cấu hình TCP/IP không chuẩn, dẫn đến TIMEOUT_408_GATEWAY. Vui lòng tạo ticket trên hệ thống JIRA. Việc đào tạo nội bộ sẽ được tổ chức vào thứ Sáu tuần này.

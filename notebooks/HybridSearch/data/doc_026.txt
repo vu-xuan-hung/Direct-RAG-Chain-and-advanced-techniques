@@ -1,0 +1,1 @@
+Thông báo cập nhật firmware cho Bàn phím cơ KCH-990-RGB. Phiên bản mới này sẽ cải thiện độ ổn định và sửa triệt để ERR_CONNECTION_RESET_104. Yêu cầu hệ thống phải hỗ trợ TCP/IP trước khi tiến hành cập nhật để tránh rủi ro. Vui lòng ghi nhớ mã lỗi ERR_CONNECTION_RESET_104 để báo cáo lên cấp trên.

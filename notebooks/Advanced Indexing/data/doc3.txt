@@ -1,0 +1,15 @@
+---
+Document ID: FPT-IT-001
+Title: Chính sách Bảo mật thông tin và Thiết bị làm việc
+Effective Date: 01/03/2024
+Scope: Toàn bộ nhân sự (All Staff), Đối tác (Partner) sử dụng mạng nội bộ.
+---
+
+## 1. Cấp phát và Sử dụng thiết bị
+* Mỗi Nhân viên được cấp 01 máy tính xách tay (Laptop) phục vụ công việc.
+* Ràng buộc: Nghiêm cấm cài đặt các phần mềm không có bản quyền. Vi phạm sẽ bị phạt tiền 1,000,000 VND và xem xét kỷ luật.
+* Thiết bị phải được mã hóa ổ cứng (Disk encryption) và cài đặt phần mềm Antivirus do bộ phận IT chỉ định.
+
+## 2. Làm việc từ xa (Remote Work)
+* Đối tác và Nhân viên khi làm việc từ xa phải kết nối qua hệ thống FPT VPN.
+* Không được phép lưu trữ mã nguồn (Source code) trên các thiết bị cá nhân hoặc ổ cứng ngoài. Tham chiếu thêm tại quy định FPT-SEC-002.

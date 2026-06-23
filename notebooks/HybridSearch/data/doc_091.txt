@@ -1,0 +1,1 @@
+Quy trình khắc phục sự cố mạng: Khi người dùng phàn nàn về hiệu suất của Switch Cisco-C9200L-48P-4G, hãy yêu cầu họ cung cấp log hệ thống. Thường thì vấn đề nằm ở cấu hình RESTful API không chuẩn, dẫn đến AUTH_FAILED_401_UNAUTHORIZED. Vui lòng tạo ticket trên hệ thống JIRA. Kiến thức cơ bản về RESTful API là bắt buộc đối với tất cả nhân viên kỹ thuật.

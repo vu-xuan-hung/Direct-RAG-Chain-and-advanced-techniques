@@ -1,0 +1,1 @@
+Hướng dẫn xử lý lỗi TIMEOUT_408_GATEWAY trên thiết bị Router RTX-8900-AX: Bước 1, kiểm tra kết nối mạng và đảm bảo RESTful API hoạt động bình thường. Bước 2, khởi động lại thiết bị. Nếu vẫn gặp lỗi, vui lòng liên hệ bộ phận IT. Mọi thắc mắc xin vui lòng gửi email về địa chỉ support@company.com.

@@ -1,0 +1,1 @@
+Hướng dẫn xử lý lỗi TIMEOUT_408_GATEWAY trên thiết bị Chuột Logitech-MX-Master-3S: Bước 1, kiểm tra kết nối mạng và đảm bảo IAM hoạt động bình thường. Bước 2, khởi động lại thiết bị. Nếu vẫn gặp lỗi, vui lòng liên hệ bộ phận IT. Vui lòng ghi nhớ mã lỗi TIMEOUT_408_GATEWAY để báo cáo lên cấp trên.

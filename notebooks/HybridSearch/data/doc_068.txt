@@ -1,0 +1,1 @@
+Theo chính sách bảo hành mới của công ty, các sản phẩm như Router RTX-8900-AX sẽ được hỗ trợ kỹ thuật tận nơi. Tuy nhiên, nếu phát hiện lỗi phần mềm do cấu hình sai CI/CD dẫn đến MEM_LEAK_WARN_9901, khách hàng sẽ phải tự chịu trách nhiệm. Hãy luôn sao lưu dữ liệu trước khi thực hiện bất kỳ thay đổi nào. Nhớ kiểm tra lại các bản ghi log trong 24 giờ qua.

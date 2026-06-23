@@ -1,0 +1,15 @@
+---
+Document ID: FPT-HR-002
+Title: Chính sách Nghỉ phép và Chế độ đãi ngộ
+Effective Date: 15/02/2024
+Scope: Nhân viên toàn thời gian (Full-time Employee) và Thực tập sinh (Intern).
+---
+
+## 1. Chế độ Nghỉ phép năm (Annual Leave)
+* Số lượng phép: Nhân viên toàn thời gian được cấp 12 ngày phép/năm. Nhân viên có thâm niên từ 5 năm trở lên được cộng thêm 1 ngày phép/năm.
+* Đối với Thực tập sinh: Thực tập sinh không có ngày phép năm có hưởng lương, nhưng được phép xin nghỉ không lương tối đa 3 ngày/tháng.
+* Quy định chuyển phép: Tối đa 5 ngày phép năm chưa sử dụng được phép chuyển sang Quý 1 của năm tiếp theo.
+
+## 2. Chế độ Khám sức khỏe
+* Toàn bộ Nhân viên được tham gia khám sức khỏe định kỳ 1 lần/năm với ngân sách tối đa 2,000,000 VND/người.
+* Yêu cầu: Bắt buộc tuân thủ danh mục khám bệnh được quy định tại phụ lục FPT-HEALTH-001.

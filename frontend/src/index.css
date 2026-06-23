@@ -1,0 +1,73 @@
+:root {
+  --fpt-orange: #F26F21;
+  --fpt-orange-hover: #E05F11;
+  --fpt-blue: #102B5E;
+  --fpt-light-bg: #F8FAFC;
+  --fpt-white: #FFFFFF;
+  --fpt-gray-100: #F1F5F9;
+  --fpt-gray-200: #E2E8F0;
+  --fpt-gray-300: #CBD5E1;
+  --fpt-gray-400: #94A3B8;
+  --fpt-gray-500: #64748B;
+  --fpt-gray-600: #475569;
+  --fpt-gray-800: #1E293B;
+  --glass-bg: rgba(255, 255, 255, 0.7);
+  --glass-border: rgba(255, 255, 255, 0.5);
+
+  font-family: 'Inter', system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light;
+  color: var(--fpt-gray-800);
+  background-color: var(--fpt-light-bg);
+  background-image: linear-gradient(135deg, #fdfbfb 0%, #ebedee 100%);
+  min-height: 100vh;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+#root {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+}
+
+@keyframes slideInUp {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes pulse {
+
+  0%,
+  100% {
+    opacity: 1;
+  }
+
+  50% {
+    opacity: 0.5;
+  }
+}

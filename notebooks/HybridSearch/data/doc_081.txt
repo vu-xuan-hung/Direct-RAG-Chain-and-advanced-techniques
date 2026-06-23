@@ -1,0 +1,1 @@
+Tài liệu thiết kế kiến trúc hệ thống mới: Chúng ta sẽ sử dụng DNS để tối ưu hóa hiệu suất giao tiếp giữa các microservices. Khi triển khai trên cụm máy chủ, cần theo dõi sát sao logs để phát hiện sớm TIMEOUT_408_GATEWAY. Các thiết bị đầu cuối được đề xuất là Bàn phím cơ KCH-990-RGB. Nhớ kiểm tra lại các bản ghi log trong 24 giờ qua.

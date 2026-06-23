@@ -1,0 +1,1 @@
+Thông báo cập nhật firmware cho Switch Cisco-C9200L-48P-4G. Phiên bản mới này sẽ cải thiện độ ổn định và sửa triệt để MEM_LEAK_WARN_9901. Yêu cầu hệ thống phải hỗ trợ VPC trước khi tiến hành cập nhật để tránh rủi ro. Kiến thức cơ bản về VPC là bắt buộc đối với tất cả nhân viên kỹ thuật.

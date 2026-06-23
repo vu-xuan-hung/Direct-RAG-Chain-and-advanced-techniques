@@ -1,0 +1,1 @@
+Quy trình khắc phục sự cố mạng: Khi người dùng phàn nàn về hiệu suất của Switch Cisco-C9200L-48P-4G, hãy yêu cầu họ cung cấp log hệ thống. Thường thì vấn đề nằm ở cấu hình TCP/IP không chuẩn, dẫn đến ERR_CONNECTION_RESET_104. Vui lòng tạo ticket trên hệ thống JIRA. Nhớ kiểm tra lại các bản ghi log trong 24 giờ qua.

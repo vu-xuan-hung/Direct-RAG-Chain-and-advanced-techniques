@@ -1,0 +1,1 @@
+Hướng dẫn xử lý lỗi NXDOMAIN_1009 trên thiết bị Server Dell-PowerEdge-R750: Bước 1, kiểm tra kết nối mạng và đảm bảo DNS hoạt động bình thường. Bước 2, khởi động lại thiết bị. Nếu vẫn gặp lỗi, vui lòng liên hệ bộ phận IT. Nhớ kiểm tra lại các bản ghi log trong 24 giờ qua. Mọi thắc mắc xin vui lòng gửi email về địa chỉ support@company.com.

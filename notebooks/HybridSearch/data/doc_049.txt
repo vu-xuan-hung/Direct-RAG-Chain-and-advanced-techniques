@@ -1,0 +1,1 @@
+Theo chính sách bảo hành mới của công ty, các sản phẩm như Màn hình Dell-U2723QE-4K sẽ được hỗ trợ kỹ thuật tận nơi. Tuy nhiên, nếu phát hiện lỗi phần mềm do cấu hình sai AWS EC2 dẫn đến DB_DEADLOCK_ERROR_0x889, khách hàng sẽ phải tự chịu trách nhiệm. Việc đào tạo nội bộ sẽ được tổ chức vào thứ Sáu tuần này.

@@ -1,0 +1,1 @@
+Khách hàng báo cáo thiết bị Màn hình Dell-U2723QE-4K không thể kết nối mạng. Qua kiểm tra ban đầu, có vẻ cấu hình k8s đang gặp vấn đề. Mã lỗi hiển thị trên màn hình là DB_DEADLOCK_ERROR_0x889. Cần gửi nhân viên hỗ trợ đến tận nơi. Việc đào tạo nội bộ sẽ được tổ chức vào thứ Sáu tuần này. Kiến thức cơ bản về k8s là bắt buộc đối với tất cả nhân viên kỹ thuật.

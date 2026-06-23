@@ -1,0 +1,1 @@
+Tài liệu thiết kế kiến trúc hệ thống mới: Chúng ta sẽ sử dụng TCP/IP để tối ưu hóa hiệu suất giao tiếp giữa các microservices. Khi triển khai trên cụm máy chủ, cần theo dõi sát sao logs để phát hiện sớm DB_DEADLOCK_ERROR_0x889. Các thiết bị đầu cuối được đề xuất là Laptop ThinkPad-T14-Gen3-21AH. Vui lòng ghi nhớ mã lỗi DB_DEADLOCK_ERROR_0x889 để báo cáo lên cấp trên.

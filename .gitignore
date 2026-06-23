@@ -1,0 +1,72 @@
+# ══════════════════════════════════════════════════════════════════════════════
+#  FPT HR Chatbot – Root .gitignore
+# ══════════════════════════════════════════════════════════════════════════════
+
+# ── Python ────────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+dist/
+build/
+.python-version
+.typos.toml
+
+# ── Virtual Environment ──────────────────────────────────────────────────────
+.venv/
+venv/
+env/
+
+# ── Package Managers ──────────────────────────────────────────────────────────
+node_modules/
+uv.lock
+pyproject.toml
+
+# ── Secrets & Environment ────────────────────────────────────────────────────
+.env
+.env.local
+.env.*.local
+
+# ── Vector Database & Indexes (auto-generated, can be large) ─────────────────
+backend/indexing/chroma_db/
+backend/indexing/*.pkl
+backend/db/chroma_db/
+*.db
+*.sqlite3
+
+# ── Model / Data Artifacts ───────────────────────────────────────────────────
+*.bin
+*.pt
+*.pth
+*.onnx
+*.safetensors
+*.pkl
+
+# ── Logs ──────────────────────────────────────────────────────────────────────
+*.log
+logs/
+signature.txt
+backend/signature.txt
+
+# ── Notebooks: checkpoints & temp ────────────────────────────────────────────
+.ipynb_checkpoints/
+notebooks/fix_*.py
+
+# ── IDE ───────────────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# ── Test / Coverage ──────────────────────────────────────────────────────────
+.pytest_cache/
+.coverage
+coverage/
+htmlcov/
+
+# ── Cache ─────────────────────────────────────────────────────────────────────
+.ruff_cache/
+.mypy_cache/
+.cache/

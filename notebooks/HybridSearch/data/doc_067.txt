@@ -1,0 +1,1 @@
+Báo cáo sự cố hệ thống: Vào lúc 02:00 AM, monitor báo động với mã AUTH_FAILED_401_UNAUTHORIZED. Nguyên nhân do việc cập nhật module JWT gây ra xung đột với hệ thống quản lý kho của sản phẩm Bàn phím cơ KCH-990-RGB. Đã rollback về phiên bản trước đó. Hãy luôn sao lưu dữ liệu trước khi thực hiện bất kỳ thay đổi nào. Việc đào tạo nội bộ sẽ được tổ chức vào thứ Sáu tuần này.

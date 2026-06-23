@@ -1,0 +1,1 @@
+Hệ thống vừa ghi nhận sự cố liên quan đến ERR_CONNECTION_RESET_104. Đội ngũ kỹ thuật đang tiến hành kiểm tra nguyên nhân cốt lõi. Trong lúc này, các dịch vụ phụ thuộc vào JSON có thể bị gián đoạn. Vui lòng tham khảo tài liệu nội bộ để biết thêm chi tiết. Việc đào tạo nội bộ sẽ được tổ chức vào thứ Sáu tuần này.

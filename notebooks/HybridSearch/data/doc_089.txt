@@ -1,0 +1,1 @@
+Thông báo cập nhật firmware cho Ổ cứng SSD-Samsung-980-Pro-1TB. Phiên bản mới này sẽ cải thiện độ ổn định và sửa triệt để MEM_LEAK_WARN_9901. Yêu cầu hệ thống phải hỗ trợ RESTful API trước khi tiến hành cập nhật để tránh rủi ro. Hãy luôn sao lưu dữ liệu trước khi thực hiện bất kỳ thay đổi nào.

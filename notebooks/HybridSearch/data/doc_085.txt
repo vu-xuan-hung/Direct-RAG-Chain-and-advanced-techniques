@@ -1,0 +1,1 @@
+Hướng dẫn xử lý lỗi MEM_LEAK_WARN_9901 trên thiết bị Switch Cisco-C9200L-48P-4G: Bước 1, kiểm tra kết nối mạng và đảm bảo JSON hoạt động bình thường. Bước 2, khởi động lại thiết bị. Nếu vẫn gặp lỗi, vui lòng liên hệ bộ phận IT. Nhớ kiểm tra lại các bản ghi log trong 24 giờ qua.

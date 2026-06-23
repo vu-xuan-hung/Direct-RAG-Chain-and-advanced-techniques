@@ -1,0 +1,1 @@
+Thông báo cập nhật firmware cho Chuột Logitech-MX-Master-3S. Phiên bản mới này sẽ cải thiện độ ổn định và sửa triệt để MEM_LEAK_WARN_9901. Yêu cầu hệ thống phải hỗ trợ JWT trước khi tiến hành cập nhật để tránh rủi ro. Kiến thức cơ bản về JWT là bắt buộc đối với tất cả nhân viên kỹ thuật. Đây là thông báo tự động từ hệ thống giám sát cảnh báo.

@@ -1,0 +1,1 @@
+Thông báo cập nhật firmware cho Router RTX-8900-AX. Phiên bản mới này sẽ cải thiện độ ổn định và sửa triệt để MEM_LEAK_WARN_9901. Yêu cầu hệ thống phải hỗ trợ VPC trước khi tiến hành cập nhật để tránh rủi ro. Thiết bị Router RTX-8900-AX hiện đang trong tình trạng hết hàng tại các kho khu vực. Mọi thắc mắc xin vui lòng gửi email về địa chỉ support@company.com.

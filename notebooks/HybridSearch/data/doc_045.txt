@@ -1,0 +1,1 @@
+Khách hàng báo cáo thiết bị Màn hình Dell-U2723QE-4K không thể kết nối mạng. Qua kiểm tra ban đầu, có vẻ cấu hình k8s đang gặp vấn đề. Mã lỗi hiển thị trên màn hình là ERR_503_SERVICE_UNAVAILABLE do overload. Cần gửi nhân viên hỗ trợ đến tận nơi. Đây là thông báo tự động từ hệ thống giám sát cảnh báo. Kiến thức cơ bản về k8s là bắt buộc đối với tất cả nhân viên kỹ thuật.

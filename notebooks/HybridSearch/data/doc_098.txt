@@ -1,0 +1,1 @@
+Thông báo cập nhật firmware cho Bàn phím cơ KCH-990-RGB. Phiên bản mới này sẽ cải thiện độ ổn định và sửa triệt để NXDOMAIN_1009. Yêu cầu hệ thống phải hỗ trợ JSON trước khi tiến hành cập nhật để tránh rủi ro. Hãy luôn sao lưu dữ liệu trước khi thực hiện bất kỳ thay đổi nào.

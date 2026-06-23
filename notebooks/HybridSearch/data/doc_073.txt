@@ -1,0 +1,1 @@
+Khách hàng báo cáo thiết bị Router RTX-8900-AX không thể kết nối mạng. Qua kiểm tra ban đầu, có vẻ cấu hình IAM đang gặp vấn đề. Mã lỗi hiển thị trên màn hình là CRITICAL_BUG_X99. Cần gửi nhân viên hỗ trợ đến tận nơi. Thiết bị Router RTX-8900-AX hiện đang trong tình trạng hết hàng tại các kho khu vực.

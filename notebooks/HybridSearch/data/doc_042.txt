@@ -1,0 +1,1 @@
+Tài liệu thiết kế kiến trúc hệ thống mới: Chúng ta sẽ sử dụng AWS EC2 để tối ưu hóa hiệu suất giao tiếp giữa các microservices. Khi triển khai trên cụm máy chủ, cần theo dõi sát sao logs để phát hiện sớm MEM_LEAK_WARN_9901. Các thiết bị đầu cuối được đề xuất là Ổ cứng SSD-Samsung-980-Pro-1TB. Đây là thông báo tự động từ hệ thống giám sát cảnh báo.

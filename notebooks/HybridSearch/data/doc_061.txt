@@ -1,0 +1,1 @@
+Theo chính sách bảo hành mới của công ty, các sản phẩm như Server Dell-PowerEdge-R750 sẽ được hỗ trợ kỹ thuật tận nơi. Tuy nhiên, nếu phát hiện lỗi phần mềm do cấu hình sai VPC dẫn đến ERR_CONNECTION_RESET_104, khách hàng sẽ phải tự chịu trách nhiệm. Nhớ kiểm tra lại các bản ghi log trong 24 giờ qua. Việc đào tạo nội bộ sẽ được tổ chức vào thứ Sáu tuần này.

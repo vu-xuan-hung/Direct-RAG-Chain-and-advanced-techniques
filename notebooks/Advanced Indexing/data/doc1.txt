@@ -1,0 +1,16 @@
+---
+Document ID: FPT-HR-001
+Title: Chính sách Thời gian làm việc và Làm thêm giờ
+Effective Date: 01/01/2024
+Scope: Áp dụng cho toàn bộ Nhân viên (Employee) và Quản lý (Manager) tại FPT.
+---
+
+## 1. Thời gian làm việc tiêu chuẩn
+* Quy định áp dụng cho tất cả Nhân viên: Thời gian làm việc tiêu chuẩn là 8 giờ/ngày, từ Thứ Hai đến Thứ Sáu.
+* Yêu cầu đối với Quản lý: Quản lý cấp trung trở lên phải đảm bảo có mặt tại văn phòng ít nhất 4 ngày/tuần.
+* Thời gian bắt đầu: Nhân viên phải có mặt và check-in trên hệ thống myFPT trước 08:30 sáng. Đi muộn quá 30 phút sẽ bị trừ 50,000 VND vào lương tháng.
+
+## 2. Quy định Làm thêm giờ (Overtime)
+* Mức chi trả: Làm thêm giờ vào ngày thường sẽ được thanh toán 150% lương cơ bản. Làm thêm giờ vào cuối tuần (Thứ 7, Chủ Nhật) được thanh toán 200%.
+* Điều kiện áp dụng: Việc làm thêm giờ phải được Quản lý phê duyệt trước 17:00 ngày làm việc thông thường.
+* Tham chiếu: Quy trình duyệt Overtime tuân thủ theo biểu mẫu tại văn bản FPT-HR-005.

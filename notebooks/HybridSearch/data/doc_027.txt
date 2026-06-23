@@ -1,0 +1,1 @@
+Theo chính sách bảo hành mới của công ty, các sản phẩm như Ổ cứng SSD-Samsung-980-Pro-1TB sẽ được hỗ trợ kỹ thuật tận nơi. Tuy nhiên, nếu phát hiện lỗi phần mềm do cấu hình sai JSON dẫn đến ERR_503_SERVICE_UNAVAILABLE do overload, khách hàng sẽ phải tự chịu trách nhiệm. Việc đào tạo nội bộ sẽ được tổ chức vào thứ Sáu tuần này.

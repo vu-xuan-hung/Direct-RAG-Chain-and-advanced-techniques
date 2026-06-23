@@ -1,0 +1,1 @@
+Khách hàng báo cáo thiết bị Bàn phím cơ KCH-990-RGB không thể kết nối mạng. Qua kiểm tra ban đầu, có vẻ cấu hình AWS EC2 đang gặp vấn đề. Mã lỗi hiển thị trên màn hình là AUTH_FAILED_401_UNAUTHORIZED. Cần gửi nhân viên hỗ trợ đến tận nơi. Vui lòng ghi nhớ mã lỗi AUTH_FAILED_401_UNAUTHORIZED để báo cáo lên cấp trên.

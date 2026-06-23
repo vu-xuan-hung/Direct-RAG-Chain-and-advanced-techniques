@@ -1,0 +1,1 @@
+Quy trình khắc phục sự cố mạng: Khi người dùng phàn nàn về hiệu suất của Bàn phím cơ KCH-990-RGB, hãy yêu cầu họ cung cấp log hệ thống. Thường thì vấn đề nằm ở cấu hình k8s không chuẩn, dẫn đến TIMEOUT_408_GATEWAY. Vui lòng tạo ticket trên hệ thống JIRA. Hãy luôn sao lưu dữ liệu trước khi thực hiện bất kỳ thay đổi nào. Việc đào tạo nội bộ sẽ được tổ chức vào thứ Sáu tuần này.

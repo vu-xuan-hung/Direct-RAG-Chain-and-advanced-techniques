@@ -1,0 +1,1 @@
+Hướng dẫn xử lý lỗi DB_DEADLOCK_ERROR_0x889 trên thiết bị Màn hình Dell-U2723QE-4K: Bước 1, kiểm tra kết nối mạng và đảm bảo AWS EC2 hoạt động bình thường. Bước 2, khởi động lại thiết bị. Nếu vẫn gặp lỗi, vui lòng liên hệ bộ phận IT. Vui lòng ghi nhớ mã lỗi DB_DEADLOCK_ERROR_0x889 để báo cáo lên cấp trên.
