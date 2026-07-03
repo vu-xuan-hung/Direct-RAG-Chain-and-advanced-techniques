@@ -115,11 +115,7 @@ Thay vì dùng LangGraph Agent (phải gọi LLM để *quyết định* gọi t
 
 ```mermaid
 flowchart LR
-    subgraph Old["❌ Trước — LangGraph Agent"]
-        A1["LLM\n(decide to call tool)\n~30–40s"] --> A2["Tool executes"] --> A3["LLM\n(synthesize)\n~25–30s"]
-    end
-
-    subgraph New["✅ Sau — Direct Chain"]
+    subgraph ["Direct Chain"]
         B1["Greeting check\n< 1ms"] --> B2["Retrieval pipeline"] --> B3["LLM\n(single call)\n~25–30s"]
     end
 ```
